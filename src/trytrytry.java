@@ -1,6 +1,6 @@
 
 public class trytrytry {
 	public void main(String [] args) {
-		System.out.print("I change againi liao, can see mah?");
+		System.out.print("jimmy ng change jorr u all can see at 12.003?");
 	}
 }
